@@ -21,6 +21,10 @@ export default {
   padding: 200rpx 0;
   box-sizing: border-box;
 }
+.clear{margin: 0px auto;clear:both;height: 0px;font-size: 0px;overflow: hidden;}
+.fl{float:left;}
+.fr{float:right;}
+
 /* this rule will be remove */
 * {
   transition: width 2s;

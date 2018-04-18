@@ -45,7 +45,6 @@ export default {
   line-height: 50rpx;
   text-align: center;
   padding: 8rpx 0 8rpx 22rpx;
-  font-family: PingFangSC-Regular;
 }
 .twoSpan {
   padding-right: 22rpx;
